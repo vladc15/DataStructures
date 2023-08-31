@@ -1,0 +1,3 @@
+C:/Users/vciup/Desktop/C++/labSD2/cmake-build-debug/CMakeFiles/labSD2.dir
+C:/Users/vciup/Desktop/C++/labSD2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vciup/Desktop/C++/labSD2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
